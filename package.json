@@ -1,0 +1,29 @@
+{
+  "name": "backend_project",
+  "version": "1.0.0",
+  "description": "Backend for product and sale management (localhost only)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^4.21.2",
+    "mongoose": "^8.13.2",
+    "multer": "^1.4.5-lts.2",
+    "uuid": "^11.1.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qodirxon2000aa/bc3.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Qodirxon2000aa/bc3/issues"
+  },
+  "homepage": "https://github.com/Qodirxon2000aa/bc3#readme"
+}
